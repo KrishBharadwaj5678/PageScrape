@@ -5,7 +5,7 @@ st.set_page_config(
     page_title="Web Scraper",
     page_icon="icon.png",
     menu_items={
-        "About":"WebScrap allows you to enter any website URL and instantly retrieve the HTML code, complete with a download option."
+        "About":"PageScrape allows you to enter any website URL and instantly retrieve the HTML code, complete with a download option."
     }
 )
 
