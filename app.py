@@ -3,7 +3,7 @@ import requests
 
 st.set_page_config(
     page_title="Web Scraper",
-    page_icon="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToucLzRkninPUNhs403jf2jQqAFhtmpfdlzg&s",
+    page_icon="icon.png",
     menu_items={
         "About":"PageScrape allows you to enter any website URL and instantly retrieve the HTML code, complete with a download option."
     }
